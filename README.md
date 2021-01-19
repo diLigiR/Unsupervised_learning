@@ -9,9 +9,11 @@ The purpose is to classify a given silhouette as one of three types of vehicle, 
 Attribute Information:
 ● All the features are geometric features extracted from the silhouette.
 ● All are numeric in nature.
+
 Learning Outcomes:
 ● Exploratory Data Analysis
 ● Reduce number dimensions in the dataset with minimal information loss
 ● Train a model using Principle Components
+
 Objective:
 Apply dimensionality reduction technique – PCA and train a model using principle components instead of training the model using just the raw data.
